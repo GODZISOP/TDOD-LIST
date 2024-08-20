@@ -51,5 +51,3 @@ var logout = document.getElementById('logout')
  function showAlert() {
     document.body.style.backgroundColor='black';
 }
-
-
